@@ -266,6 +266,30 @@ body {
   cursor: pointer;
   padding: 6px;
 }
+.modal-title {
+}
+.modal-form {
+}
+.modal-form-label {
+}
+.modal-container {
+}
+.modal-form-input {
+}
+.modal-form-icon {
+}
+.modal-form-message {
+}
+.modal-form-agreement {
+}
+.modal-form-agreement-checkbox {
+}
+.modal-form-agreement-text {
+}
+.modal-form-agreement-link {
+}
+.modal-form-btn {
+}
 
 /* About us section */
 .section {
@@ -690,4 +714,12 @@ body {
 .footer-icons-link:hover,
 .footer-icons-link:focus {
   background-color: #31d0aa;
+}
+.subscribe {
+  display: flex;
+}
+
+.subscribe-btn {
+  background-color: var(--accent-text-color);
+  color: var(--biggest-text-color);
 }
